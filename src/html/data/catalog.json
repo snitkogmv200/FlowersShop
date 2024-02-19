@@ -1,0 +1,98 @@
+[
+	{
+		"img": "flower_1.png",
+		"title": "Для любимой",
+		"status": "New",
+		"score": 4.8,
+		"reviews": 130,
+		"price": "7 535 ₽"
+	},
+	{
+		"img": "flower_2.png",
+		"title": "Подарочный букет на свадьбу",
+		"status": "New",
+		"score": 4.9,
+		"reviews": 78,
+		"price": "11 230 ₽"
+	},
+	{
+		"img": "flower_3.png",
+		"title": "Для той самой",
+		"status": "New",
+		"score": 4.85,
+		"reviews": 112,
+		"price": "3 650 ₽"
+	},
+	{
+		"img": "flower_4.png",
+		"title": "Поставить в вазу и забыть",
+		"status": "New",
+		"score": 4.79,
+		"reviews": 90,
+		"price": "3 200 ₽"
+	},
+	{
+		"img": "flower_5.png",
+		"title": "Для той, которой дорожишь",
+		"status": "New",
+		"score": 4.9,
+		"reviews": 210,
+		"price": "6 453 ₽"
+	},
+	{
+		"img": "flower_6.png",
+		"title": "Набор роз бархотных",
+		"status": "New",
+		"score": 4.82,
+		"reviews": 180,
+		"price": "11 135 ₽"
+	},
+	{
+		"img": "flower_1.png",
+		"title": "Для любимой",
+		"status": "New",
+		"score": 4.8,
+		"reviews": 130,
+		"price": "7 535 ₽"
+	},
+	{
+		"img": "flower_2.png",
+		"title": "Подарочный букет на свадьбу",
+		"status": "New",
+		"score": 4.9,
+		"reviews": 78,
+		"price": "11 230 ₽"
+	},
+	{
+		"img": "flower_3.png",
+		"title": "Для той самой",
+		"status": "New",
+		"score": 4.85,
+		"reviews": 112,
+		"price": "3 650 ₽"
+	},
+	{
+		"img": "flower_4.png",
+		"title": "Поставить в вазу и забыть",
+		"status": "New",
+		"score": 4.79,
+		"reviews": 90,
+		"price": "3 200 ₽"
+	},
+	{
+		"img": "flower_5.png",
+		"title": "Для той, которой дорожишь",
+		"status": "New",
+		"score": 4.9,
+		"reviews": 210,
+		"price": "6 453 ₽"
+	},
+	{
+		"img": "flower_6.png",
+		"title": "Набор роз бархотных",
+		"status": "New",
+		"score": 4.82,
+		"reviews": 180,
+		"price": "11 135 ₽"
+	}
+]

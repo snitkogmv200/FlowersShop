@@ -1,0 +1,11 @@
+.catalog {}
+
+.catalog__title {
+	padding: 45px 0;
+}
+
+.catalog__cards {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 45px 25px;
+}

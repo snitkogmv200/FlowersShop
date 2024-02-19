@@ -1,0 +1,19 @@
+.action {
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	background-image: url("../../img/1684988212_fons-pibig-info-p-zadnii-fon-podarki-81.jpg");
+	background-size: cover;
+	background-position: right 35% bottom 45%;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	user-select: none;
+
+	h1 {
+		font-family: var(--font-main);
+		color: white;
+		font-size: 32px;
+		margin-left: 50%;
+		font-weight: 700;
+	}
+}

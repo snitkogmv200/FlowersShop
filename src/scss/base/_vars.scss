@@ -1,0 +1,24 @@
+:root {
+	--container-width: 1180px;
+	--container-padding: 30px;
+
+	--font-main: 'Roboto', sans-serif;
+	--font-accent: 'Montserrat Subrayada', sans-serif;
+	--font-nav: 'Open Sans', sans-serif;
+
+	--page-bg: #fff;
+	--text-color: #000;
+	--accent: rgb(124, 83, 130);
+	--accent-two: rgb(189, 160, 193);
+	--accent-three: rgb(90, 34, 97);
+	--accent-four: rgb(227, 190, 232, .4);
+
+	--laptop-size: 1199px;
+	--tablet-size: 959px;
+	--mobile-size: 599px;
+}
+
+.dark {
+	--page-bg: #252526;
+	--text-color: #fff;
+}

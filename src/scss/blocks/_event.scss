@@ -1,0 +1,87 @@
+.event {
+	user-select: none;
+	background-color: var(--accent-four);
+	display: grid;
+	gap: 15px;
+	position: relative;
+
+	&::before {
+		content: "";
+		display: block;
+		width: 50%;
+		height: 100%;
+		position: absolute;
+		left: 0;
+		top: 0;
+		background-image: url("./../../img/cards/flower_action_1.png");
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+}
+
+.event__container {
+	padding-left: calc((100% - var(--container-width)) / 2 + (var(--container-width) / 2));
+	padding-right: calc((100% - var(--container-width)) / 2);
+}
+
+.event__content {
+	padding: 100px 0;
+	padding-left: 72px;
+}
+
+.event__tagline {
+	color: var(--accent);
+	font-weight: 600;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+.event__title {
+	font-weight: 500;
+	font-size: 32px;
+	margin-bottom: 4px;
+}
+
+.event__text {
+	font-family: var(--font-main);
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+
+.event__timer {
+	display: grid;
+	gap: 10px;
+	font-family: var(--font-main);
+	margin-bottom: 15px;
+}
+
+.event__expires {
+	font-size: 16px;
+}
+
+.timer {
+	display: flex;
+	gap: 16px;
+	align-items: flex-start;
+}
+
+.timer__el {
+	text-align: center;
+}
+
+.timer__value {
+	font-size: 20px;
+	width: 60px;
+	height: 60px;
+	background-color: #fff;
+	line-height: 60px;
+	color: #000;
+	font-weight: 600;
+	font-family: var(--font-nav);
+}
+
+.timer__description {
+	font-size: 12px;
+	line-height: 20px;
+}
